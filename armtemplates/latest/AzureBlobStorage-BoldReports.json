@@ -140,7 +140,7 @@
           ],
           "properties": {
             "RepoUrl": "https://github.com/boldreports/bold-reports-azure.git",
-            "branch": "v10.1.11",
+            "branch": "v10.1.11_DocumentOutline",
             "IsManualIntegration": true
           }
         },
